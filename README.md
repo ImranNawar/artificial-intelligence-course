@@ -423,3 +423,146 @@
 <li>Dataset: IMDb Movie Review Dataset</li>
 </ul>
 </div>
+
+---
+
+## Artificial Neural Networks
+- Introduction to Neural Networks  
+- Neural Network Examples  
+- Evolution of Neural Networks  
+- Recent Resurgence of Neural Networks  
+- Neurons and the Brain  
+  - Biological Inspiration: The Human Brain  
+- From Biology to Computation  
+- The "one learning algorithm" hypothesis  
+- Neural Network Architecture: Layers and Connections  
+- Neuron Model (Logistic Unit)  
+- Activation Functions  
+- Multiple Hidden Layers  
+- Neural Networks (Computational Steps)  
+
+**Neural Networks Training Process**  
+- Forward Propagation  
+  - Key Steps for Forward Propagation  
+  - Cost Function  
+- Backward Propagation  
+  - Key Steps for Backpropagation  
+- Cost Function of Neural Networks  
+
+**Code**: Artificial Neural Network – Implementation for a Classification Task (4 classes)
+
+---
+
+### Class Off
+**Summer of Code Entry Test**
+
+---
+
+### Introduction to Deep Learning
+- What Deep Learning Can Do?  
+- Deep Learning in 2025  
+- What is Deep Learning?  
+- Why Deep Learning and Why Now?  
+- Perceptron: The Structural Building Block of Deep Learning  
+  - The Perceptron Forward Propagation  
+- Neural Network Training Process  
+- Forward Propagation  
+- Activation Functions  
+- Loss/Cost Functions  
+- Backpropagation – Intuition  
+- Optimization Algorithms for Training Neural Networks  
+- The Problem of Overfitting  
+  - Regularization 1: Dropout  
+  - Regularization 2: Early Stopping  
+- Modern Deep Learning Architectures  
+
+---
+
+### Computer Vision
+- Impact of Computer Vision  
+- What Computers See  
+- Tasks in Computer Vision  
+- Learning Visual Features  
+
+#### Convolutional Neural Networks (CNNs)
+- Convolutional Layer  
+- Convolution Operation  
+- Pooling Layer  
+  - Max Pooling, Average Pooling, Stride  
+- Flatten Layer  
+- Fully Connected (Dense) Layer  
+- Activation Functions  
+
+**Code**: CNN Model for Handwritten Digit Classification  
+
+---
+
+### Mid-term Exam
+**Quiz – I**
+
+---
+
+### Transfer Learning
+- Challenges in Training Custom DL Models  
+  - Data, Training Time, Computational Resources, Expertise Requirement  
+- Transfer Learning  
+- How Transfer Learning Works  
+- Types of Transfer Learning  
+- Pre-trained Models  
+- ImageNet Dataset  
+- ImageNet Competition  
+- AlexNet Architecture, LeNet5, VGG16/19  
+- Problems with Very Deep Networks  
+- ResNet, Inception  
+- 1x1 Convolution  
+- EfficientNet, MobileNet  
+- Applications of Transfer Learning  
+
+**Projects**  
+- Pneumonia Classifier  
+- Facial Emotion Recognition  
+  - Pre-trained Models:  
+    1. VGG16  
+    2. ResNet18  
+    3. DenseNet121  
+    4. ViT-B/16  
+    5. OpenAI CLIP (ViT-B/32)  
+  - Fine-tuned All Models  
+  - Deployed the Best Performing Model in a Streamlit App  
+
+---
+
+### Quizzes
+- Quiz – II  
+- Quiz – III  
+
+---
+
+### Huawei Cloud Services
+- Introduction to Huawei Cloud  
+- Compute Services – Elastic Cloud Server (ECS)  
+- Storage Services – Object Storage Service (OBS)  
+- Network Services – Virtual Private Cloud (VPC)  
+- Database Services – RDS, GaussDB, GeminiDB  
+- AI Services  
+  - Huawei AI Strategy  
+  - Open-Source Pangu Models (2025)  
+- Huawei Cloud AI Services – ModelArts, AI Gallery, API Services  
+- Huawei Cloud EI API Services  
+- Huawei HiLens: Architecture & Use Cases  
+
+---
+
+### ModelArts
+- Overview of ModelArts  
+- ModelArts Workflow  
+- AutoML in ModelArts  
+- Notebook Environments  
+- Huawei vs Other Cloud AI Platforms  
+
+---
+
+### KooLabs
+- **Lab01**: Compute Services Practice  
+- **ExeML**: Food Classification  
+
