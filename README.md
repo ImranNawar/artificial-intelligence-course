@@ -229,4 +229,197 @@
 - Saving and Exporting Visualizations  
 
 ### Coding Practice
-- Practical Coding Examples for the Topics  
+- Practical Coding Examples for the Topics
+
+---
+
+## 🗂️ Version Control
+
+- Git  
+- GitHub  
+- What is a Repository?  
+- Creating Repositories  
+- Updating Repositories  
+- `.gitignore` File  
+- `requirements.txt` File  
+- Basic Git Workflow  
+- Branch  
+- Working in VS Code with Git  
+- Linux Terminal Tips  
+- Contributing to Open Source Projects  
+
+---
+
+## 🤖 Machine Learning
+
+### Traditional Programming vs Machine Learning
+
+### Mathematics for Machine Learning
+- Linear Algebra  
+- Calculus  
+- Statistics and Probability  
+
+### Introduction to Machine Learning
+- Machine Learning Overview  
+- Machine Learning Examples  
+- Evolution of Machine Learning  
+- Types of Machine Learning  
+  - Supervised Learning  
+  - Unsupervised Learning  
+  - Reinforcement Learning  
+- Workflow of Machine Learning  
+
+### Key Concepts
+- Data and Features  
+- Algorithms and Models  
+- Training and Testing  
+- Evaluation Metrics  
+
+### Common Algorithms
+- Overview of frequently used ML algorithms  
+
+### Tools and Frameworks
+- Libraries and environments for ML  
+
+### Challenges and Limitations
+
+### Future Trends
+
+---
+
+## 📉 How Do Models Learn?
+
+### Simple Linear Regression
+- Model Representation (Hypothesis)  
+  - Parameters, Variables  
+- Cost Function  
+- Gradient Descent  
+
+#### Gradient Descent for Linear Regression
+- Derivative of Cost Function (MSE)  
+  - With respect to θ₀  
+  - With respect to θ₁  
+
+#### Code
+- Simple Linear Regression (ex2 data)  
+- Gradient Descent Manual Implementation  
+
+---
+
+### Multiple Linear Regression
+- Hypothesis  
+- Cost Function  
+- Gradient Descent  
+- Feature Scaling  
+- Learning Rate  
+- Feature Engineering  
+
+---
+
+### Normal Equation
+
+### Polynomial Regression
+
+#### Code for Multiple Linear Regression (ex3 data)
+- Gradient Descent  
+- Normal Equation  
+
+---
+
+### Logistic Regression
+- Model Representation (Hypothesis)  
+- Sigmoid Function  
+- Cost Function  
+- Gradient Descent  
+- Gradient of Binary Cross-Entropy Loss Function  
+
+#### Code for Logistic Regression (ex4 data)
+- Gradient Descent  
+- Newton’s Method  
+
+---
+
+## 🛡️ Regularization
+
+### The Problem of Overfitting
+- Addressing Overfitting  
+
+### Linear Regression with Regularization (ex5 data)
+- Regularization Term  
+- Cost Function  
+- Gradient Descent  
+
+#### Code
+- Linear Regression with Regularization  
+- Logistic Regression with Regularization  
+
+---
+
+## ⚡ Practical Machine Learning with Scikit-Learn
+
+- Introduction to Scikit-Learn  
+- Data Processing with Scikit-Learn  
+- Building Machine Learning Models  
+- Model Evaluation Metrics  
+- Scikit-Learn Algorithm Cheat Sheet  
+- Real-World Applications and Case Studies  
+- Recent Advancements and Future Direction  
+- Additional Resources  
+
+### ML Models Implementation with Scikit-Learn
+- Support Vector Machines (SVM)  
+- Decision Trees (DT)  
+- Random Forests (RF)  
+
+---
+
+## 🏠 Project: House Price Prediction
+
+### Steps of the Project
+- Loading the Dataset  
+- Exploratory Data Analysis  
+- Data Preprocessing  
+  - Handle Missing Values  
+  - Encoding Categorical Variables  
+  - Log Transformation for Skewed Features  
+  - Standardizing Numerical Variables  
+- Model Training and Evaluation  
+- Save the Best Model  
+- Streamlit Application  
+
+---
+
+## 🖼️ Fundamentals of Image Representation
+
+### Feature Descriptors and Face Detection
+- Implement ORB and SIFT using OpenCV  
+- Hough Transform  
+- Haar Cascade Classifier  
+- Face Detection  
+- Eyes Detection  
+
+---
+
+## 📷 Project: Classification
+
+- Train Logistic Regression and SVM Model for classification of images into one of 3 classes  
+- Use HOG Feature Descriptor  
+- Create an interface using Streamlit  
+
+---
+
+## ~~🔍 Unsupervised Learning~~ 🚧
+- ~~Clustering~~  
+- ~~Dimensionality Reduction~~  
+- ~~Anomaly Detection~~  
+- ~~Recommender System~~  
+### ~~Project: Customer Segmentation~~ 🚧
+- ~~Use clustering techniques to segment customers based on purchasing behavior~~  
+- ~~Dataset: Grocery Store Dataset~~  
+---
+## ~~🎬 Task: Movie Review Sentiment Classifier~~ 🚧
+- ~~Dataset: IMDb Movie Review Dataset~~
+<ul>
+<li>Dataset: IMDb Movie Review Dataset</li>
+</ul>
+</div>
