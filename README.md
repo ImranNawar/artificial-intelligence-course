@@ -566,3 +566,185 @@
 - **Lab01**: Compute Services Practice  
 - **ExeML**: Food Classification  
 
+## Quiz – IV
+
+---
+
+## Computer Vision Applications
+
+### Image Classification
+- Classification vs Localization  
+
+### Object Detection
+- Approaches to Object Detection  
+  - Two-Stage Detectors  
+  - One-Stage Detectors  
+- YOLOv1  
+- YOLOv12  
+- State-of-the-Art Models (2025)  
+- Recent Advancements in Object Detection (2025)  
+- Real-World Benchmarks (2025)  
+
+### Segmentation
+- Types of Image Segmentation  
+  - Semantic Segmentation  
+  - Instance Segmentation  
+  - Panoptic Segmentation  
+- YOLO-based Instance Segmentation  
+- Segment Anything (SAM) – Foundation Model  
+- Segmentation Advancements (2025)  
+
+**Code**: Object Detection using YOLO (images & videos)  
+
+**Project**: Car Counter  
+- YOLO  
+- SORT (Algorithm for Tracking)  
+
+**Project**: People Counter  
+
+---
+
+## Sequence Learning
+
+### Deep Learning Models for Sequential Data
+- Sequences in the Wild  
+- What is Sequential Data?  
+- Sequence Modeling Applications  
+  - Video & Motion (Computer Vision)  
+  - Natural Language Processing  
+
+### Modeling Sequential Data before RNNs
+- Frame-by-Frame Processing (FNNs & 2D CNNs)  
+- Two-Stream Networks  
+- 3D Convolutional Neural Networks  
+
+### Types of Neural Networks (by Structure)  
+
+### Recurrent Neural Networks
+- Neurons with Recurrence  
+- Recurrent Neurons  
+- Memory Cells (Hidden State)  
+- Types of RNN Architecture  
+- Training RNNs – Backpropagation Through Time (BPTT)  
+- Challenges of RNN  
+
+### Sequence Modeling Problem
+- Predict the Next Word  
+
+### LSTM (Long Short-Term Memory)
+- Core Idea  
+- LSTM Cell Architecture  
+
+### Gated Recurrent Unit (GRU)  
+
+### Combining CNNs and RNNs  
+
+---
+
+## Google AI Studio
+- Get an API Key  
+
+**Project**: PashtoWriter  
+- Create Python venv  
+- Install Libraries: `streamlit`, `google-genai`  
+- Convert Roman Pashto to Proper Pashto using Google Generative AI Model (`gemini-2.0-flash`)  
+
+---
+
+## Natural Language Processing (NLP)
+
+### History and Evolution of NLP
+- Milestones in Modern Neural NLP  
+  - Neural Machine Translation  
+  - Free-Text Question Answering  
+  - GPT-2 (2019)  
+  - ChatGPT, GPT-4 and Beyond  
+
+### Approaches of NLP
+- Rule-Based NLP (1950s – 1980s)  
+- Statistical NLP (1980s – 1990s)  
+- Machine Learning in NLP (1990s – 2010s)  
+- Deep Learning in NLP (2013 – Present)  
+
+### Core NLP Tasks (with Examples)
+- Sentiment Analysis  
+
+### NLP Pipeline: From Raw Text to Insight
+1. Text Pre-processing  
+2. Feature Extraction Techniques  
+3. Modeling/Learning  
+
+**Lab**: Sentiment Analysis with Word2Vec + LSTM (PyTorch)  
+
+---
+
+## Revision
+- Previous 22 Lectures  
+
+---
+
+## Quiz – V
+
+---
+
+## Project: Youtube Video Transcript Summarizer
+- Streamlit for Web Interface  
+- `youtube_transcript_api` for Extracting Transcripts  
+- `google-genai` for Summarizing with `gemini-2.0-flash` Model  
+
+---
+
+## Google AI Studio – Four Features
+1. Chat  
+2. Stream / Gemini Live  
+3. Generate  
+4. Build  
+
+**Project**: Image-to-Story with Google AI Studio Build Feature  
+- Run Application Locally  
+
+---
+
+## Agentic AI
+
+### How You Can Engage with AI
+- Learn AI/LLMs and Build Them  
+- Build on Top of Existing LLMs  
+- Use AI Tools Without Coding  
+
+### Key Concepts
+- Generative AI vs Agentic AI  
+- Evolving Chatbots: RAG → Tool-Augmented → Agentic  
+- What Makes AI "Agentic"  
+- Why We Need Agentic AI  
+- What is Agentic AI?  
+
+### Core Components
+- Agentic Architecture Overview  
+- Tools in Agentic AI: Extend Agent Capabilities  
+- Common Tools Used by Agentic AI Agents  
+- Frameworks: Code vs No-Code  
+- Challenges & Risks with Agentic AI  
+
+### Applications of Agentic AI  
+
+**Project**: Building a Research Agent  
+- LLM: `gemini-2.0-flash`  
+- Tool: SerpAPI  
+
+---
+
+## Introduction to n8n
+- n8n.io vs Self-Hosted (Local)  
+- Getting Started with Self-Hosted n8n  
+
+---
+
+## AI Hackathon: Build Your Own Project
+### Project Ideation
+- How to Come Up with an Idea?  
+- Steps to Build a Successful Project  
+
+---
+
+**Thanks – ALHAMDULILLAH**  
