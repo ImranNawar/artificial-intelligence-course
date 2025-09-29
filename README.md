@@ -1,6 +1,22 @@
 # Artificial Intelligence Course
+This repository contains the **Artificial Intelligence** course content I delivered at **Corvit Network Islamabad** in collaboration with **NAVTTC** and **Huawei**.  
 
-## 📘 Course Introduction
+It is a comprehensive resource covering topics from fundamental concepts to advanced technologies, including:  
+```bash
+  * Python programming  
+  * Python libraries for EDA (NumPy, Pandas, Matplotlib, Seaborn, Plotly)  
+  * Machine Learning  
+  * Artificial Neural Networks  
+  * Deep Learning  
+  * Computer Vision  
+  * Natural Language Processing  
+  * Huawei Cloud AI Services  
+  * Generative AI  
+  * Agentic AI
+```
+---
+
+## 📘 Course Introduction (Orientation Class)
 - Course Overview  
 - Artificial Intelligence  
 - Why Now?  
