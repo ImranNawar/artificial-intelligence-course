@@ -435,10 +435,6 @@ It is a comprehensive resource covering topics from fundamental concepts to adva
 ---
 ## ~~🎬 Task: Movie Review Sentiment Classifier~~ 🚧
 - ~~Dataset: IMDb Movie Review Dataset~~
-<ul>
-<li>Dataset: IMDb Movie Review Dataset</li>
-</ul>
-</div>
 
 ---
 
@@ -692,6 +688,17 @@ It is a comprehensive resource covering topics from fundamental concepts to adva
 
 **Lab**: Sentiment Analysis with Word2Vec + LSTM (PyTorch)  
 
+---
+### ~~Attentions Mechanism in Detail~~
+- ~~Transformers, Vision Transformer~~
+
+### ~~Deep Generative AI~~
+- ~~Autoencoders~~
+- ~~VAEs~~
+- ~~GANs~~
+
+### ~~Large Language Models, VLM~~
+### ~~Diffusion Models~~
 ---
 
 ## Revision
